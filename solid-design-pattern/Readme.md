@@ -7,3 +7,9 @@ Benefits:
 - Easy to test each component independently
 - Better maintainability and scalability
 - Easier to reuse components in differnet contexts
+
+---
+
+2. Open Close Principle
+   The Open/Closed Principle states that software entities should be open for extension but closed for modification- meaning we should be able to add new functionality without changing the existing code
+
