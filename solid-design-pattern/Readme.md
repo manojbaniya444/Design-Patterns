@@ -22,3 +22,8 @@ Benefits:
 
 4. Interface Segregation Principle
    The Interface Segregation Principle states that no client should be forced to depend on methods it does not use. In other words, it's better to have many small, specific interfaces than one large, general-purpose interface.
+
+---
+
+5. Dependency Inversion Principle
+   DIP inverts the traditional dependency structure where high-level modules depend on low-level modules. Instead, both depend on abstractions.
