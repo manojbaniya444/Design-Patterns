@@ -26,6 +26,9 @@ class NotificationFactory {
       case "email":
         return new EmailNotification();
 
+      case "push":
+        return new PushNotification();
+
       default:
         throw new Error("Incorrect notification type implementation.");
     }
